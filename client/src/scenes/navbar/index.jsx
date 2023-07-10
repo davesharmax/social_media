@@ -168,7 +168,7 @@ const Navbar = () => {
                   backgroundColor: neutralLight,
                   width: "150px",
                   borderRadius: "0.25rem",
-                  p: "0.25rem 1rem",
+                  p: "0.25rem 1rem", 
                   "& .MuiSvgIcon-root": {
                     pr: "0.25rem",
                     width: "3rem",
